@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "api",
+		"path": "../personal-chat-api"
+	},
+	{
+		"name": "portal",
+		"path": "../personal-chat-portal"
+	},
+	{
+		"name": "pulumi",
+		"path": "../personal-chat-pulumi"
+	}
+],
+  "settings": {}
+}
